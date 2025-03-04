@@ -13,7 +13,7 @@
 * 🔥 安全升级：可自定义访问白名单，热更新可随时修改；自定义监听范围，global=可全局访问，local=仅本地访问（`127.0.0.1:port`通过nginx等代理域名转发）。
 
 
-### 👋 下载安装
+**👋 下载安装**
 
 * [natok-cli](https://github.com/natokay/go-natok-cli/releases)
 * [natok-server](https://github.com/natokay/go-natok-server/releases)
